@@ -1,0 +1,26 @@
+{
+  "name": "react-jade_sample",
+  "version": "1.0.0",
+  "description": "== README",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yachibit-sandbox/react-jade_sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yachibit-sandbox/react-jade_sample/issues"
+  },
+  "homepage": "https://github.com/yachibit-sandbox/react-jade_sample",
+  "dependencies" : {
+    "browserify": "~> 6.3",
+    "browserify-incremental": "^1.4.0"
+  }
+}
